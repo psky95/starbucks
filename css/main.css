@@ -31,7 +31,7 @@
   left: 0;
   width: 348px;
   height: 150px;
-  background-image: url("../images/2021_chiristmas_bg_left.png");
+  background-image: url("../images/2023_chiristmas_bg_left.png");
 }
 .visual .visual__group::after {
   content: "";
@@ -40,7 +40,7 @@
   right: 0;
   width: 249px;
   height: 86px;
-  background-image: url("../images/2021_chiristmas_bg_right.png");
+  background-image: url("../images/2023_chiristmas_bg_right.png");
 }
 .visual .cup1.image {
   position: absolute;
@@ -347,7 +347,7 @@
 
 /* SEASON PRODUCT */
 .season-product {
-  background-image: url("../images/2021_christmas_bean_bg.jpg");
+  background-image: url("../images/2023_christmas_bean_bg.jpg");
   background-size: cover;
 }
 .season-product .inner {
